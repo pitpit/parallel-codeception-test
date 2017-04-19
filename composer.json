@@ -1,0 +1,14 @@
+{
+    "name": "pitpit/parallel-codeception-test",
+    "authors": [
+        {
+            "name": "pitpit",
+            "email": "damien.pitard@gmail.com"
+        }
+    ],
+    "require": {
+        "codeception/codeception": "2.2.10",
+        "consolidation/robo": "1.0.0",
+        "codeception/robo-paracept": "@dev"
+    }
+}
